@@ -1,0 +1,6 @@
+{
+  "appId": "com.adhkar.app",
+  "appName": "تطبيق الأذكار",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
